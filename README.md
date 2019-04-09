@@ -7,3 +7,4 @@ En este archivo la cosa va a ser tan simple como indicar nuestro nombre y apelli
 ***
 Enrique Casado --> EnriqueCasado --> https://github.com/EnriqueCasado/Ahorcado_C.git  
 Martin Enrique --> metainit --> https://github.com/metainit/Usuarios_GitHub.git
+Enrique Salinas --> kikotes86 --> https://github.com/kikotes86/ahorcado.c
