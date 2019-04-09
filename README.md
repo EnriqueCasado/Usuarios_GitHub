@@ -5,5 +5,5 @@ En este archivo la cosa va a ser tan simple como indicar nuestro nombre y apelli
 
 **Nombre --> Usuario --> Repositorio**
 ***
-Enrique Casado --> EnriqueCasado --> https://github.com/EnriqueCasado/Ahorcado_C.git 
-Martin Enrique --> metainit --> https://github.com/metainit/Usuarios_GitHub.git
+Enrique Casado --> EnriqueCasado --> https://github.com/EnriqueCasado/Ahorcado_C.git
+Martin Enrique --> metainit --> https://github.com/metainit/ahorcado.git
