@@ -11,3 +11,4 @@ Alejandro Carrero --> theGcarrer --> https://github.com/theGcarrer/Ahorcado_malo
 Kevin Vargas --> 217140 --> https://github.com/217140/AhorcadoC.git  
 David Ainsa --> davidainsa --> https://github.com/davidainsa/  
 Oscar Cortés --> oscarcorbnf --> https://github.com/oscarcorbnf/Ahorcado.git
+Daniel Cámara --> DanielCamaraUbieto --> https://github.com/DanielCamaraUbieto/ahorcadoC.git
