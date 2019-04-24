@@ -1,4 +1,4 @@
-# Usuarios_GitHub
+﻿# Usuarios_GitHub
 Usuarios GitHub
 
 En este archivo la cosa va a ser tan simple como indicar nuestro nombre y apellido, nuestro nombre de usuario GitHub y la dirección de nuestro GitHub del proyecto del ahorcado en C.
@@ -12,4 +12,5 @@ Kevin Vargas --> 217140 --> https://github.com/217140/AhorcadoC.git
 David Ainsa --> davidainsa --> https://github.com/davidainsa/  
 Oscar Cortés --> oscarcorbnf --> https://github.com/oscarcorbnf/Ahorcado.git  
 Daniel Cámara --> DanielCamaraUbieto --> https://github.com/DanielCamaraUbieto/ahorcadoC.git  
-Miquel Escala --> MiquelEscala --> https://github.com/MiquelEscala/Ahorcado-C
+Miquel Escala --> MiquelEscala --> https://github.com/MiquelEscala/Ahorcado-C Alvaro Barrero --> alvarobarrero --> https://github.com/alvarobarrero
+
