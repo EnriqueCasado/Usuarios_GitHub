@@ -17,3 +17,4 @@ Jesus Grustan --> minichesus --> https://github.com/minichesus/Ahorcado.c
 Alberto Saz --> albertoSaz --> https://github.com/albertoSaz/ahorcadoC.git  
 JoseManuel --> JoseMa26650 --> https://github.com/JoseMa26650/Ahorcado  
 Javier Guillen --> JavierGuillenPalacin --> https://github.com/JavierGuillenPalacin/ahoracado  
+Enrique Salinas --> kikotes86 --> https://github.com/kikotes86/ahorcado.c
