@@ -14,4 +14,5 @@ Oscar Cortés --> oscarcorbnf --> https://github.com/oscarcorbnf/Ahorcado.git
 Daniel Cámara --> DanielCamaraUbieto --> https://github.com/DanielCamaraUbieto/ahorcadoC.git  
 Miquel Escala --> MiquelEscala --> https://github.com/MiquelEscala/Ahorcado-C  
 Jesus Grustan --> minichesus --> https://github.com/minichesus/Ahorcado.c  
-Alberto Saz --> albertoSaz --> https://github.com/albertoSaz/ahorcadoC.git
+Alberto Saz --> albertoSaz --> https://github.com/albertoSaz/ahorcadoC.git  
+JoseManuel --> JoseMa26650 --> https://github.com/JoseMa26650/Ahorcado
