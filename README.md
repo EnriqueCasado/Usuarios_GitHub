@@ -13,3 +13,4 @@ David Ainsa --> davidainsa --> https://github.com/davidainsa/
 Oscar Cortés --> oscarcorbnf --> https://github.com/oscarcorbnf/Ahorcado.git  
 Daniel Cámara --> DanielCamaraUbieto --> https://github.com/DanielCamaraUbieto/ahorcadoC.git  
 Miquel Escala --> MiquelEscala --> https://github.com/MiquelEscala/Ahorcado-C
+Jesus Grustan --> minichesus --> https://github.com/minichesus/Ahorcado.c
