@@ -22,3 +22,4 @@ Enrique Salinas --> kikotes86 --> https://github.com/kikotes86/ahorcado.c
 Guillermo Carreras --> GuillermoCarreras --> https://github.com/GuillermoCarreras/Usuarios_GitHub.git  
 Alvaro Barrero --> alvarobarrero --> https://github.com/alvarobarrero  
 Saúl Otal Beltran --> saulotal2 --> https://github.com/saulotal2/ahorcado_c
+Fernando Serrano Miranda --> Fernisabi --> https://github.com/Fernisabi/ahorcado_c
