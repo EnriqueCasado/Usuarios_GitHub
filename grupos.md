@@ -7,5 +7,5 @@ Grupo 2: Enrique  Salinas, Javier, Miquel, Álvaro, Javier, Alberto
 Grupo 3: Saúl, Jesús, José Manuel, Alejandro, David, Daniel, Fernando    
 ***  
 Grupo 1: [Ahorcado_Grupal](https://github.com/grupo1ed/Ahorcado_Grupal)  
-Grupo 2: [ahorcadoGrupo2](https://github.com/albertoSaz/ahorcadoGrupo2)
+Grupo 2: [ahorcadoGrupo2](https://github.com/albertoSaz/ahorcadoGrupo2)  
 Grupo 3: [ahorcadoGrupo3](https://github.com/grupo3ed/Ahorcado_David)
